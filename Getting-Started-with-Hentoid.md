@@ -1,7 +1,6 @@
-##Welcome to the Hentoid wiki!#
-![Hentoid App Icon](https://github.com/avluis/Hentoid-Resources/raw/master/wiki/assets/img/ic_launcher-web.png)
+##Getting Started with Hentoid#
 ######This page has been created in order to familiarize you with the `Hentoid` app as quickly as possible.#
-___
+
 ######`Hentoid` is a Hentai Manga reader & archiving app designed to work with:#
 ######[Fakku](https://www.fakku.net/), [Pururin](http://pururin.com/) and [Hitomi](http://hitomi.la/) (Hitomi does not currently support mobile layouts).#
 
