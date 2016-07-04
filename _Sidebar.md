@@ -1,8 +1,8 @@
-* [Home]
-  * [Getting Started with Hentoid]
-* [Contributing]
-* [Help]
+* [[Home]]
+  * [[Getting Started with Hentoid]]
+* [[Contributing]]
+* [[Help]]
 
 ***
 
-* [Contributing to this wiki]
+* [[Contributing to this wiki]]
