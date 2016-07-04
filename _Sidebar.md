@@ -6,7 +6,7 @@ Hentoid
 - [[Home]]
 - [[Getting Started with Hentoid]]
 - [[Contributing]]
-- [[Help]]
+- [Help](https://discord.gg/0yFzSPtXehJmFqOM)
 
 ***
 
