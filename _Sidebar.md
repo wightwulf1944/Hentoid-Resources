@@ -5,6 +5,7 @@ Hentoid
 
 - [[Home]]
 - [[Getting Started]]
+- [[Downloading]]
 - [[Contributing]]
 - [Help](https://discord.gg/0yFzSPtXehJmFqOM)
 

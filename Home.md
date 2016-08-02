@@ -12,6 +12,7 @@
 
 - [Home](https://github.com/AVnetWS/Hentoid/wiki/Home)
 - [Getting Started](https://github.com/AVnetWS/Hentoid/wiki/Getting-Started)
+- [Downloading](https://github.com/AVnetWS/Hentoid/wiki/Downloading)
 - [Contributing](https://github.com/AVnetWS/Hentoid/wiki/Contributing)
 - [Help](https://discord.gg/0yFzSPtXehJmFqOM)
 
