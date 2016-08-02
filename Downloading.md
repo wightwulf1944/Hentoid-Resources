@@ -2,7 +2,7 @@
 
 ###### A few things you should be aware of:
 * `Hentoid` is only available for Android (no plans for an iOS version at the moment).
-* `Hentoid` is not offered in the Google Play Store (check the section below for more about this).
+* `Hentoid` is not offered in the Google Play Store (too hot for Google).
 * `Hentoid` is not a simplified or alternative browser (what you see is what you get).
 * `Hentoid` cannot download if the original source is not there (just in case you try this).
 
