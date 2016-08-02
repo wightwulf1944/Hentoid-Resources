@@ -1,2 +1,2 @@
 **[Brought to you by AVnet.ws Soft](https://github.com/AVnetWS)**  
-[App Team](https://github.com/orgs/AVnetWS/teams/app-team) | [Docs Team](https://github.com/orgs/AVnetWS/teams/docs-team) | [Discord](https://discord.gg/0yFzSPtXehJmFqOM) | [Subreddit](https://www.reddit.com/r/Hentoid/)
+[Latest Release](https://github.com/AVnetWS/Hentoid/releases/latest) | [App Team](https://github.com/orgs/AVnetWS/teams/app-team) | [Docs Team](https://github.com/orgs/AVnetWS/teams/docs-team) | [Discord](https://discord.gg/0yFzSPtXehJmFqOM) | [Subreddit](https://www.reddit.com/r/Hentoid/)
