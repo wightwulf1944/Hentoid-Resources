@@ -6,21 +6,7 @@
 * `Hentoid` is not a simplified or alternative browser (what you see is what you get).
 * `Hentoid` cannot download if the original source is not there (just in case you try this).
 
-###### With that out of the way, go on and grab the [latest release](../releases/latest) and install on your Android device to get started. You want to grab the file named `hentoid.apk` from the release page.
-*Note: When installing `Hentoid`, you may be presented with the following alert:*
-
-![Install Blocked Alert Dialog](https://github.com/avluis/Hentoid-Resources/raw/master/wiki/assets/img/setup/01-setup-unknown-sources-warning.png)
-
-###### Due to the content `Hentoid` gives you access to - `Hentoid` is not distributed in the Google Play Store, so you will see this alert (and will not be able to install) until you change your security settings on your device.
-###### To do this, open the `Settings` app and navigate to `Security`. Look for the `Unknown Sources` entry and enable it.
-
-![Enable Unknown Sources Confirm Dialog](https://github.com/avluis/Hentoid-Resources/raw/master/wiki/assets/img/setup/02-setup-enable-unknown-sources-dialog.png)
-
-###### You will need to relaunch the `hentoid.apk` file you downloaded earlier in order to install `Hentoid` after changing this setting. You can find this file in your `Downloads` app (and in your `Downloads` folder) if you previously downloaded it.
-
-![Installing Hentoid](https://github.com/avluis/Hentoid-Resources/raw/master/wiki/assets/img/setup/03-setup-installing-app.png)
-
-###### If you followed the above instructions correctly, `Hentoid` should now be installed. If for any reason you cannot install `Hentoid`, ask for help in the [Hentoid - Google+ Community - Help category](https://plus.google.com/communities/110496467189870321840/stream/4bd645ab-de38-4ed1-8238-06adc4bc5bcd) or in the [Discord Server](https://discord.gg/0yFzSPtXehJmFqOM).
+###### With that out of the way, go on and grab the [latest release](../releases/latest) and install on your Android device to get started. Need help with that? Check out our [install guide](Install.md)!
 
 ###### Once `Hentoid` is installed, go ahead and launch it (either from the last screen on your package manager, or from your application list).
 
@@ -34,15 +20,15 @@
 
 ![Library Directory](https://github.com/avluis/Hentoid-Resources/raw/master/wiki/assets/img/setup/06-setup-app-library.png)
 
-###### From this point, `Hentoid` will ask you where to save your downloads. Keep the default option if this is the first time that you are using `Hentoid` then tap select to proceed - otherwise, browse to the directory where your downloads are saved.
+###### From this point, `Hentoid` will ask you where to save your downloads. Choose the `Default` option if this is the first time that you are using `Hentoid` or if you want to save on internal storage - otherwise, tapping on `Custom` will allow you to choose a different directory and (if your device supports this) an SD Card. If you need help in this area, check out the [Custom-Library.md] guide.
 
 ![Library Import Confirm Dialog](https://github.com/avluis/Hentoid-Resources/raw/master/wiki/assets/img/setup/07-setup-app-library-import-dialog.png)
 
-###### `Hentoid` will now ask you to confirm if it finds a library, or proceed directly to creating a library if it does not.
+###### If `Hentoid` finds a library, it will now ask you to confirm importing it. You won't see this on a new install.
 
 ![Library Importing Dialog](https://github.com/avluis/Hentoid-Resources/raw/master/wiki/assets/img/setup/08-setup-app-library-importing.png)
 
-###### `Hentoid` will import any valid files that it finds in your library folder. This includes files from prior versions of `Hentoid` (e.g.; `FakkuDroid` & `FakkuDroidV3`). The import process will go over all of your previous downloads, so give it time if you have a particularly large library.
+###### For those with existing libraries, `Hentoid` will import any valid files that it finds in your library folder. This includes files from prior versions of `Hentoid` (e.g.; `FakkuDroid` & `FakkuDroidV3`). The import process will go over all of your previous downloads, so give it time if you have a particularly large library.
 
 ![Adding to DB Dialog](https://github.com/avluis/Hentoid-Resources/raw/master/wiki/assets/img/setup/09-setup-app-library-db-add.png)
 

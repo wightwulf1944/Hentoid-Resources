@@ -4,7 +4,9 @@ Hentoid
 ===============
 
 - [[Home]]
+- [[Install]]
 - [[Getting Started]]
+- [[Custom Library]]
 - [[Downloading]]
 - [[Contributing]]
 - [Help](https://discord.gg/0yFzSPtXehJmFqOM)
