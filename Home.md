@@ -11,7 +11,9 @@
 ===============
 
 - [Home](https://github.com/AVnetWS/Hentoid/wiki/Home)
+- [Install](https://github.com/AVnetWS/Hentoid/wiki/Install)
 - [Getting Started](https://github.com/AVnetWS/Hentoid/wiki/Getting-Started)
+- [Custom Library](https://github.com/AVnetWS/Hentoid/wiki/Custom-Library)
 - [Downloading](https://github.com/AVnetWS/Hentoid/wiki/Downloading)
 - [Contributing](https://github.com/AVnetWS/Hentoid/wiki/Contributing)
 - [Help](https://discord.gg/0yFzSPtXehJmFqOM)
