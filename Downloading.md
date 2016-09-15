@@ -6,7 +6,7 @@
 * `Hentoid` is not a simplified or alternative browser (what you see is what you get).
 * `Hentoid` cannot download if the original source is not there (just in case you try this).
 
-###### With that out of the way, launch the app if not already open. If you have yet to install `Hentoid`, then give [this page](https://github.com/AVnetWS/Hentoid/wiki/Getting-Started) a visit.
+###### With that out of the way, launch the app if not already open. If you have yet to install `Hentoid`, check out our [Install](https://github.com/AVnetWS/Hentoid/wiki/Install) guide.
 
 ###### If this is your first time using `Hentoid` and you opted *not* to import your library (or you simply don't have a prior library), then your `Download List` will be a bit, well, lonely -- let's fix that!
 

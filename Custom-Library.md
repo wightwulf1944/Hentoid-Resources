@@ -12,7 +12,7 @@
 
 ![Hentoid Prefs](https://github.com/avluis/Hentoid-Resources/raw/master/wiki/assets/img/setup/11-setup-app-prefs.png)
 
-###### If you are here from the [Getting-Started] guide, go ahead and tap on `Custom`. If you are here from the `Prefs Screen`, then you are where I need you. You can confirm this by taking a look at the screen below.
+###### If you are here from the [Getting Started](https://github.com/AVnetWS/Hentoid/wiki/Getting-Started) guide, go ahead and tap on `Custom`. If you are here from the `Prefs Screen`, then you are where I need you. You can confirm this by taking a look at the screen below.
 
 ![Hentoid Prefs](https://github.com/avluis/Hentoid-Resources/raw/master/wiki/assets/img/setup/12-setup-app-custom-dir.png)
 
