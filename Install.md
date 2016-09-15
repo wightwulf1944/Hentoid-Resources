@@ -20,6 +20,6 @@
 
 ![Installing Hentoid](https://github.com/avluis/Hentoid-Resources/raw/master/wiki/assets/img/setup/03-setup-installing-app.png)
 
-###### If you followed the above instructions correctly, `Hentoid` should now be installed. If for any reason you cannot install `Hentoid`, ask for help in the [Hentoid - Google+ Community - Help category](https://plus.google.com/communities/110496467189870321840/stream/4bd645ab-de38-4ed1-8238-06adc4bc5bcd) or in the [Discord Server](https://discord.gg/0yFzSPtXehJmFqOM).
+###### If you followed the above instructions correctly, `Hentoid` should now be installed. If for any reason you cannot install `Hentoid`, ask for help in our [Discord Server](https://discord.gg/0yFzSPtXehJmFqOM).
 
-###### Good to go? If not, check out our [Getting Started](Getting-Started.md) guide as well.
+###### Good to go? If not, check out our [Getting Started](https://github.com/AVnetWS/Hentoid/wiki/Getting-Started) guide.

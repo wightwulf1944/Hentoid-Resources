@@ -8,7 +8,7 @@
 
 ![Library Directory](https://github.com/avluis/Hentoid-Resources/raw/master/wiki/assets/img/setup/06-setup-app-library.png)
 
-###### Hopefully, you are looking at the screen above. If not, check out the [Getting-Started.md] guide or jump directly to the directory picker (by tapping on `Select Downloads Folder`) via the `Prefs Screen` (displayed below).
+###### Hopefully, you are looking at the screen above. If not, check out the [Getting Started](https://github.com/AVnetWS/Hentoid/wiki/Getting-Started) guide or jump directly to the directory picker (by tapping on `Select Downloads Folder`) via the `Prefs Screen` (displayed below).
 
 ![Hentoid Prefs](https://github.com/avluis/Hentoid-Resources/raw/master/wiki/assets/img/setup/11-setup-app-prefs.png)
 
@@ -24,4 +24,4 @@
 
 ###### If you did everything right (and if your device is supported) then you'll either be staring at an import confirmation dialog or the `All set up!` screen. If this is not the case, or if you crashed, I urge you to bring this up to our devs on our [Discord Server](https://discord.gg/0yFzSPtXehJmFqOM).
 
-###### From this point, you can head back to the [Getting-Started] guide if you came from there or check out our [Downloading] guide if you need assistance. Other than that, thank you for installing `Hentoid`, enjoy your stay~
+###### From this point, you can head back to the [Getting Started](https://github.com/AVnetWS/Hentoid/wiki/Getting-Started) guide if you came from there or check out our [Downloading](https://github.com/AVnetWS/Hentoid/wiki/Downloading) guide if you need assistance. Other than that, thank you for installing `Hentoid`, enjoy your stay~
