@@ -6,7 +6,7 @@
 * `Hentoid` is not a simplified or alternative browser (what you see is what you get).
 * `Hentoid` cannot download if the original source is not there (just in case you try this).
 
-###### With that out of the way, go on and grab the [latest release](../releases/latest) and install on your Android device to get started. Need help with that? Check out our [install guide](Install.md)!
+###### With that out of the way, go on and grab the [latest release](../releases/latest) and install on your Android device to get started. Need help with that? Check out our [Install](https://github.com/AVnetWS/Hentoid/wiki/Install) guide.
 
 ###### Once `Hentoid` is installed, go ahead and launch it (either from the last screen on your package manager, or from your application list).
 
@@ -20,7 +20,7 @@
 
 ![Library Directory](https://github.com/avluis/Hentoid-Resources/raw/master/wiki/assets/img/setup/06-setup-app-library.png)
 
-###### From this point, `Hentoid` will ask you where to save your downloads. Choose the `Default` option if this is the first time that you are using `Hentoid` or if you want to save on internal storage - otherwise, tapping on `Custom` will allow you to choose a different directory and (if your device supports this) an SD Card. If you need help in this area, check out the [Custom-Library.md] guide.
+###### From this point, `Hentoid` will ask you where to save your downloads. Choose the `Default` option if this is the first time that you are using `Hentoid` or if you want to save on internal storage - otherwise, tapping on `Custom` will allow you to choose a different directory and (if your device supports this) an SD Card. If you need help in this area, check out the [Custom Library](https://github.com/AVnetWS/Hentoid/wiki/Custom-Library) guide.
 
 ![Library Import Confirm Dialog](https://github.com/avluis/Hentoid-Resources/raw/master/wiki/assets/img/setup/07-setup-app-library-import-dialog.png)
 
