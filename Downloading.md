@@ -8,6 +8,8 @@
 
 ###### With that out of the way, launch the app if not already open. If you have yet to install `Hentoid`, check out our [Install](https://github.com/AVnetWS/Hentoid/wiki/Install) guide.
 
+***Note: The following guide contains content NSFW (not safe for work). I'm not resposible if you get in trouble, you have been warned.***
+
 ###### If this is your first time using `Hentoid` and you opted *not* to import your library (or you simply don't have a prior library), then your `Download List` will be a bit, well, lonely -- let's fix that!
 
 ###### For this example, I will be downloading from [nhentai](https://nhentai.net/)~
