@@ -10,30 +10,31 @@
 
 ###### Once `Hentoid` is installed, go ahead and launch it (either from the last screen on your package manager, or from your application list).
 
-![Welcome to Hentoid](https://github.com/avluis/Hentoid-Resources/raw/master/wiki/assets/img/setup/04-setup-app-welcome.png)
+[[/wiki/assets/img/setup/04-setup-app-welcome.png|alt=Welcome to Hentoid]]
 
 ###### Welcome to Hentoid! Since this is your first time installing the app, you will be presented with a wizard. Just follow along.
 
-![Runtime Permissions](https://github.com/avluis/Hentoid-Resources/raw/master/wiki/assets/img/setup/05-setup-app-permissions.png)
+[[/wiki/assets/img/setup/05-setup-app-permissions.png|alt=Runtime Permissions]]
 
 ###### If you are using a device powered by Android 6.0+, then you will see the screen above. Make sure to allow `Hentoid` to save to your device, if not, you won't be able to use the app.
 
-![Library Directory](https://github.com/avluis/Hentoid-Resources/raw/master/wiki/assets/img/setup/06-setup-app-library.png)
+[[/wiki/assets/img/setup/06-setup-app-library.png|alt=Library Directory]]
 
-###### From this point, `Hentoid` will ask you where to save your downloads. Choose the `Default` option if this is the first time that you are using `Hentoid` or if you want to save on internal storage - otherwise, tapping on `Custom` will allow you to choose a different directory and (if your device supports this) an SD Card. If you need help in this area, check out the [Custom Library](https://github.com/AVnetWS/Hentoid/wiki/Custom-Library) guide.
+###### From this point, `Hentoid` will ask you where to save your downloads. Choose the `Default` option if this is the first time that you are using `Hentoid` or if you want to save on internal storage - otherwise, tapping on `Custom` will allow you to choose a different directory and (if your device supports this) an SD Card.
+###### If you need help in this area, check out the [Custom Library](https://github.com/AVnetWS/Hentoid/wiki/Custom-Library) guide.
 
-![Library Import Confirm Dialog](https://github.com/avluis/Hentoid-Resources/raw/master/wiki/assets/img/setup/07-setup-app-library-import-dialog.png)
+[[/wiki/assets/img/setup/07-setup-app-library-import-dialog.png|alt=Library Import Confirm Dialog]]
 
 ###### If `Hentoid` finds a library, it will now ask you to confirm importing it. You won't see this on a new install.
 
-![Library Importing Dialog](https://github.com/avluis/Hentoid-Resources/raw/master/wiki/assets/img/setup/08-setup-app-library-importing.png)
+[[/wiki/assets/img/setup/08-setup-app-library-importing.png|alt=Library Importing Dialog]]
 
 ###### For those with existing libraries, `Hentoid` will import any valid files that it finds in your library folder. This includes files from prior versions of `Hentoid` (e.g.; `FakkuDroid` & `FakkuDroidV3`). The import process will go over all of your previous downloads, so give it time if you have a particularly large library.
 
-![Adding to DB Dialog](https://github.com/avluis/Hentoid-Resources/raw/master/wiki/assets/img/setup/09-setup-app-library-db-add.png)
+[[/wiki/assets/img/setup/09-setup-app-library-db-add.png|alt=Adding to DB Dialog]]
 
 ###### You will see this once `Hentoid` scans all of your files.
 
-![All done](https://github.com/avluis/Hentoid-Resources/raw/master/wiki/assets/img/setup/10-setup-app-landing.png)
+[[/wiki/assets/img/setup/10-setup-app-landing.png|alt=All done]]
 
 ###### You've made it -- thank you for installing `Hentoid`, enjoy your stay~
