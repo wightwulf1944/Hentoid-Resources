@@ -37,4 +37,4 @@
 
 [[/wiki/assets/img/setup/10-setup-app-landing.png|alt=All done]]
 
-###### You've made it -- thank you for installing `Hentoid`, enjoy your stay~
+###### Good to go? If not, check out our [Downloading](https://github.com/AVnetWS/Hentoid/wiki/Downloading) guide if you need assistance. Thank you for installing `Hentoid`, enjoy your stay~

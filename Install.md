@@ -22,4 +22,4 @@
 
 ###### If you followed the above instructions correctly, `Hentoid` should now be installed. If for any reason you cannot install `Hentoid`, ask for help in our [Discord Server](https://discord.gg/0yFzSPtXehJmFqOM).
 
-###### Good to go? If not, check out our [Getting Started](https://github.com/AVnetWS/Hentoid/wiki/Getting-Started) guide.
+###### Good to go? If not, check out our [Getting Started](https://github.com/AVnetWS/Hentoid/wiki/Getting-Started) guide. Thank you for installing `Hentoid`, enjoy your stay~

@@ -24,4 +24,4 @@
 
 ###### If you did everything right (and if your device is supported) then you'll either be staring at an import confirmation dialog or the `All set up!` screen. If this is not the case, or if you crashed, I urge you to bring this up to our devs on our [Discord Server](https://discord.gg/0yFzSPtXehJmFqOM).
 
-###### From this point, you can head back to the [Getting Started](https://github.com/AVnetWS/Hentoid/wiki/Getting-Started) guide if you came from there or check out our [Downloading](https://github.com/AVnetWS/Hentoid/wiki/Downloading) guide if you need assistance. Other than that, thank you for installing `Hentoid`, enjoy your stay~
+###### From this point, you can head back to the [Getting Started](https://github.com/AVnetWS/Hentoid/wiki/Getting-Started#if-you-need-help-in-this-area-check-out-the-custom-library-guide) guide if you came from there or check out our [Downloading](https://github.com/AVnetWS/Hentoid/wiki/Downloading) guide if you need assistance. Thank you for installing `Hentoid`, enjoy your stay~

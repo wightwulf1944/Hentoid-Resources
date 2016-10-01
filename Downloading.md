@@ -43,4 +43,4 @@
 
 ###### If done correctly, `Hentoid` should give up holding your oranges hostage and will add them to your `Download List` -- please keep this method a secret from others, we don't want to hurt `Hentoid` too much.
 
-###### I hope you find what you are looking for out there. Go ahead and give the other sources a try as well with what you have learned -- until the next one~
+###### I hope you find what you are looking for out there. Go ahead and give the other sources a try as well with what you have learned. Thank you for installing `Hentoid`, enjoy your stay~
